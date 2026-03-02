@@ -334,9 +334,23 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b47d725836be1262db920e5374ff07cc4a54c389",
     "commitName": "Jugador dos anota 3 veces y jugador 1 no",
     "commitTimestamp": 1772476411357,
     "testId": 13
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1772476444004,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Jugador 2 gana el juego",
+    "commitTimestamp": 1772476470248,
+    "testId": 14
   }
 ]

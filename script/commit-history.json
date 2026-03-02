@@ -247,12 +247,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b47d725836be1262db920e5374ff07cc4a54c389",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:33:30.000Z",
       "message": "Jugador dos anota 3 veces y jugador 1 no",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/b47d725836be1262db920e5374ff07cc4a54c389"
     },
     "stats": {
       "total": 7,
@@ -262,6 +262,25 @@
     },
     "coverage": 68.42,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:34:29.000Z",
+      "message": "Jugador 2 gana el juego",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-03-02"
+    },
+    "coverage": 71.05,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
