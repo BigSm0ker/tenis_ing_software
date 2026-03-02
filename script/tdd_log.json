@@ -248,9 +248,15 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "066cf9605e298e9a950025638d5c1e3924602323",
     "commitName": "Primer commit",
     "commitTimestamp": 1772475172799,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Caso Deuce implementado",
+    "commitTimestamp": 1772475805235,
+    "testId": 9
   }
 ]
