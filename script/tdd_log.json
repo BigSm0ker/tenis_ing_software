@@ -434,9 +434,15 @@
     "testId": 19
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8b3e4b3e433c2848c4467a13640af63c9284c45b",
     "commitName": "El juego esta en Deuce pero el jugador dos mete una mas",
     "commitTimestamp": 1772476958264,
     "testId": 19
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Interfaz ya integrada para deploy",
+    "commitTimestamp": 1772477456883,
+    "testId": 20
   }
 ]

@@ -361,17 +361,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8b3e4b3e433c2848c4467a13640af63c9284c45b",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:42:37.000Z",
       "message": "El juego esta en Deuce pero el jugador dos mete una mas",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/8b3e4b3e433c2848c4467a13640af63c9284c45b"
     },
     "stats": {
       "total": 12,
       "additions": 12,
       "deletions": 0,
+      "date": "2026-03-02"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:50:56.000Z",
+      "message": "Interfaz ya integrada para deploy",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 108,
+      "additions": 88,
+      "deletions": 20,
       "date": "2026-03-02"
     },
     "coverage": 100,

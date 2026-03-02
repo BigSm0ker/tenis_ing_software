@@ -1,18 +1,74 @@
 <!DOCTYPE html>
 <html xml:lang="es">
   <head>
-    <title>Sumador</title>
+    <title>Tennis Game</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+      }
+      .tennis-container {
+        background-color: #f5f5f5;
+        padding: 30px;
+        border-radius: 10px;
+        text-align: center;
+      }
+      .score-display {
+        font-size: 48px;
+        font-weight: bold;
+        margin: 30px 0;
+        color: #2c3e50;
+      }
+      .buttons-container {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 20px;
+      }
+      button {
+        padding: 15px 30px;
+        font-size: 18px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      #player1-button {
+        background-color: #3498db;
+        color: white;
+      }
+      #player1-button:hover {
+        background-color: #2980b9;
+      }
+      #player2-button {
+        background-color: #e74c3c;
+        color: white;
+      }
+      #player2-button:hover {
+        background-color: #c0392b;
+      }
+      #reset-button {
+        background-color: #95a5a6;
+        color: white;
+        margin-top: 20px;
+      }
+      #reset-button:hover {
+        background-color: #7f8c8d;
+      }
+    </style>
   </head>
   <body>
-    <h1>Sumador</h1>
-    <form id="sumar-form">
-      <label for="primer-numero">Primer número:</label>
-      <input type="number" id="primer-numero" />
-      <label for="segundo-numero">Segundo número:</label>
-      <input type="number" id="segundo-numero" />
-      <input type="submit" value="Sumar" id="sumar-button" />
-    </form>
-    <div id="resultado-div"></div>
+    <div class="tennis-container">
+      <h1>🎾 Tennis Game</h1>
+      <div class="score-display" id="score-display">Love - Love</div>
+      <div class="buttons-container">
+        <button id="player1-button">Player 1 Scores</button>
+        <button id="player2-button">Player 2 Scores</button>
+      </div>
+      <button id="reset-button">Reset Game</button>
+    </div>
 
     <script type="module" src="./src/presenter.js"></script>
   </body>
