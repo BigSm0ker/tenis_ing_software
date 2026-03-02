@@ -420,9 +420,23 @@
     "testId": 18
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5725d30f7cdee0dd0ce53055dd153e6e5eab8011",
     "commitName": "El juego esta en Deuce pero jugador 2 anota",
     "commitTimestamp": 1772476897810,
     "testId": 18
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1772476920838,
+    "success": true,
+    "testId": 19
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "El juego esta en Deuce pero el jugador dos mete una mas",
+    "commitTimestamp": 1772476958264,
+    "testId": 19
   }
 ]

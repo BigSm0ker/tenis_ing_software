@@ -110,6 +110,18 @@ describe("Tennis Scorer", () => {
     tennis.player2Scores();
     expect(tennis.score()).toEqual("Advantage for Player 2");
   });
+  it("estado en Advantage del jugador 2 anota una vez mas", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.score()).toEqual("Game for Player 2");
+  });
 
   
 
