@@ -304,17 +304,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e1fc5d19b32bbee06c47df14a657d89652a45691",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:39:43.000Z",
       "message": "El juego esta en Deuce pero jugador 1 anota",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/e1fc5d19b32bbee06c47df14a657d89652a45691"
     },
     "stats": {
       "total": 21,
       "additions": 18,
       "deletions": 3,
+      "date": "2026-03-02"
+    },
+    "coverage": 84.21,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:40:49.000Z",
+      "message": "El juego sigue en Deuce pero jugador 1 mete uno más",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
       "date": "2026-03-02"
     },
     "coverage": 84.21,
