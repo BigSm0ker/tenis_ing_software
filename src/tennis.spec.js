@@ -36,6 +36,11 @@ describe("Tennis Scorer", () => {
     tennis.player1Scores();
     expect(tennis.score()).toEqual("Game for Player 1");
   });
+  it("jugador 2 anota anota jugar 1 en cero", () => {
+    let tennis = new Tennis();
+    tennis.player2Scores();
+    expect(tennis.score()).toEqual("Love - 15");
+  });
 
 });
 

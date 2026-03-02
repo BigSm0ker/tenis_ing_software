@@ -190,12 +190,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "96f93bb72724e3abf568a090a5ecca5d9e9388c9",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:28:36.000Z",
       "message": "Pruebas de jugador 1 ganador completada",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/96f93bb72724e3abf568a090a5ecca5d9e9388c9"
     },
     "stats": {
       "total": 78,
@@ -205,6 +205,25 @@
     },
     "coverage": 57.89,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:31:16.000Z",
+      "message": "Jugador dos anota una vez",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-03-02"
+    },
+    "coverage": 63.16,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
