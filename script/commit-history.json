@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e57589730c9f451de9108b8dc172da2c7b784327",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:23:24.000Z",
       "message": "Caso Deuce implementado",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/e57589730c9f451de9108b8dc172da2c7b784327"
     },
     "stats": {
       "total": 34,
@@ -188,5 +188,24 @@
     "test_count": 5,
     "failed_tests": 4,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:28:36.000Z",
+      "message": "Pruebas de jugador 1 ganador completada",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 78,
+      "additions": 46,
+      "deletions": 32,
+      "date": "2026-03-02"
+    },
+    "coverage": 57.89,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

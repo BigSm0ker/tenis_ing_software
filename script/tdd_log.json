@@ -254,9 +254,47 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e57589730c9f451de9108b8dc172da2c7b784327",
     "commitName": "Caso Deuce implementado",
     "commitTimestamp": 1772475805235,
     "testId": 9
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 4,
+    "numTotalTests": 5,
+    "timestamp": 1772476009472,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 5,
+    "numTotalTests": 6,
+    "timestamp": 1772476032980,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1772476076168,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1772476088983,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Pruebas de jugador 1 ganador completada",
+    "commitTimestamp": 1772476117169,
+    "testId": 10
   }
 ]
