@@ -362,9 +362,39 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "792f886f9ebd2fabbda5189b0cac5ffec43b2302",
     "commitName": "Primera prueba Deuce",
     "commitTimestamp": 1772476661928,
     "testId": 15
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772476702609,
+    "success": false,
+    "testId": 16
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772476734404,
+    "success": false,
+    "testId": 16
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772476753256,
+    "success": true,
+    "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "El juego esta en Deuce pero jugador 1 anota",
+    "commitTimestamp": 1772476785111,
+    "testId": 16
   }
 ]

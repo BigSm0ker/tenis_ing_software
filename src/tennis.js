@@ -27,8 +27,8 @@ class Tennis {
       }
 
       const diff = p1 - p2;
-      if (diff === 1) return "Advantage Player 1";
-      if (diff === -1) return "Advantage Player 2";
+      if (diff === 1) return "Advantage for Player 1";
+      if (diff === -1) return "Advantage for Player 2";
 
       if (diff >= 2) return "Game for Player 1";
       if (diff <= -2) return "Game for Player 2";
