@@ -348,9 +348,23 @@
     "testId": 14
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0b3ed56e4ed240e0c99baff7b7db2021a578e137",
     "commitName": "Jugador 2 gana el juego",
     "commitTimestamp": 1772476470248,
     "testId": 14
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1772476635226,
+    "success": true,
+    "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Primera prueba Deuce",
+    "commitTimestamp": 1772476661928,
+    "testId": 15
   }
 ]

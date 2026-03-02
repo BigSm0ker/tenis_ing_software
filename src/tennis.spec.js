@@ -63,6 +63,19 @@ describe("Tennis Scorer", () => {
     expect(tennis.score()).toEqual("Game for Player 2");
   });
 
+  // Pruebas de Deuce y Advantage
+  it("jugador 1 anota 3 veces y jugador 2 anota 3 veces", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.score()).toEqual("Deuce");
+  });
+
+
 });
 
 

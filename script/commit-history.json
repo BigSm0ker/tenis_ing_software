@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0b3ed56e4ed240e0c99baff7b7db2021a578e137",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:34:29.000Z",
       "message": "Jugador 2 gana el juego",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/0b3ed56e4ed240e0c99baff7b7db2021a578e137"
     },
     "stats": {
       "total": 8,
@@ -281,6 +281,25 @@
     },
     "coverage": 71.05,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:37:40.000Z",
+      "message": "Primera prueba Deuce",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2026-03-02"
+    },
+    "coverage": 76.32,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
