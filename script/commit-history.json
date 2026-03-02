@@ -133,18 +133,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "eafb634edabc30e3087647172a71cab40ccccfd6",
     "author": "israel antezana",
     "commit": {
       "date": "2026-02-26T14:38:47.000Z",
       "message": "doc: documentacion sobre el diseno",
-      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-TennisTDD/commit/eafb634edabc30e3087647172a71cab40ccccfd6"
     },
     "stats": {
       "total": 8,
       "additions": 8,
       "deletions": 0,
       "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-02T18:12:51.000Z",
+      "message": "Primer commit",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-03-02"
     },
     "coverage": 100,
     "test_count": 5,
