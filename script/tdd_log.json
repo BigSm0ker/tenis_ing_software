@@ -440,9 +440,23 @@
     "testId": 19
   },
   {
-    "commitId": "HEAD",
+    "commitId": "56548590238c9c364093e16246ad0a5232269d1c",
     "commitName": "Interfaz ya integrada para deploy",
     "commitTimestamp": 1772477456883,
     "testId": 20
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1772543799266,
+    "success": true,
+    "testId": 21
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Feat: de Advantage de player 1, player 2 anota y vuelven a Deuce",
+    "commitTimestamp": 1772543887303,
+    "testId": 21
   }
 ]

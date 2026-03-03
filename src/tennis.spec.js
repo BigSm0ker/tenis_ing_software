@@ -122,6 +122,19 @@ describe("Tennis Scorer", () => {
     tennis.player2Scores();
     expect(tennis.score()).toEqual("Game for Player 2");
   });
+  it("desde Advantage del Jugador 1, Jugador 2 anota y vuelven a Deuce", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores(); // 15-0
+    tennis.player1Scores(); // 30-0
+    tennis.player1Scores(); // 40-0
+    tennis.player2Scores(); // 40-15
+    tennis.player2Scores(); // 40-30
+    tennis.player2Scores(); // Deuce
+    tennis.player1Scores(); // Advantage for Player 1
+    tennis.player2Scores(); // Vuelve a Deuce
+    expect(tennis.score()).toEqual("Deuce");
+});
+  
 
   
 

@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "56548590238c9c364093e16246ad0a5232269d1c",
     "author": "BigSmoke",
     "commit": {
       "date": "2026-03-02T18:50:56.000Z",
       "message": "Interfaz ya integrada para deploy",
-      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/56548590238c9c364093e16246ad0a5232269d1c"
     },
     "stats": {
       "total": 108,
@@ -395,6 +395,25 @@
     },
     "coverage": 100,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BigSmoke",
+    "commit": {
+      "date": "2026-03-03T13:18:06.000Z",
+      "message": "Feat: de Advantage de player 1, player 2 anota y vuelven a Deuce",
+      "url": "https://github.com/BigSm0ker/tenis_ing_software/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }
